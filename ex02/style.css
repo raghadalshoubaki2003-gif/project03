@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    color: black;
+}
+
+#message {
+    font-size: 18px;
+}
+
+.box {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.status {
+    padding: 10px;
+}
+
+/* Class added by JavaScript */
+.active {
+    background-color: lightgreen;
+    color: darkgreen;
+    font-weight: bold;
+}
